@@ -1,0 +1,52 @@
+@media only screen and (min-width: 990px) and (max-width: 1200px) {
+	
+	
+	
+}
+
+@media only screen and (min-width: 760px) and (max-width: 990px) {
+	body { font-size: 12px; }
+	.wrapper { width: 760px; }
+	
+	.mainMenu ul li a { font-size: 15px; padding: 0 14px; }
+	.header .logo { margin-bottom: 10px; }
+	.header .menu ul li { display: block; margin-bottom: 10px;}
+	.header .menu ul li a { font-size: 16px; width: 100px; line-height: 15px; height: 30px;}	 
+}
+
+@media only screen and (min-width: 480px) and (max-width: 760px) {
+	body { font-size: 12px; }
+	.wrapper { width: 470px;}
+	.header .logo { text-align: center; }
+	.header .logo img { width: auto ;}
+	.header .panL { float: none; width: 100%; margin-bottom: 20px;}
+	.header .panR { float: none; width: 100%; }
+	.mainMenu .panL { display: none; }
+	.mainMenu .panR { width: 100%; float: none; height: auto; }
+	.banners { display: none; }
+	.mainMenu { height: auto; }
+	.mainMenu ul li { display: block; float: none; }
+	.mainMenu ul li { float: none; border: 0; border-top: 1px solid #666; }
+	.mainMenu ul li a { text-align: center; }
+	.footer span { display: block; margin: 0; }
+	.mainContent { padding: 20px; }
+	
+}
+
+@media only screen and (min-width: 0px) and (max-width: 479px) {
+	body { font-size: 12px; }
+	.wrapper { width: 310px;}
+	.header .logo { text-align: center; }
+	.header .logo img { width: auto ;}
+	.header .panL { float: none; width: 100%; margin-bottom: 20px;}
+	.header .panR { float: none; width: 100%; }
+	.mainMenu .panL { display: none; }
+	.mainMenu .panR { width: 100%; float: none; height: auto; }
+	.banners { display: none; }
+	.mainMenu { height: auto; }
+	.mainMenu ul li { display: block; float: none; }
+	.mainMenu ul li { float: none; border: 0; border-top: 1px solid #666; }
+	.mainMenu ul li a { text-align: center; }
+	.footer span { display: block; margin: 0; }
+	.mainContent { padding: 20px; }
+}

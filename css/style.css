@@ -1,0 +1,189 @@
+@CHARSET "UTF-8";
+html, body, div, span, object, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, big, cite, code, del, dfn, em, font, img, ins, kbd, q, samp, small, strong, sub,  tt, var, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td {
+    margin: 0;
+    padding: 0;
+    border: 0;
+    font-size: 100%;
+    vertical-align: baseline;
+    background: transparent;
+}
+
+.q {
+    quotes: none;
+}
+
+q:before, q:after {
+    content: "";
+    content: none;
+}
+
+a, ins, del {
+    text-decoration: none;
+}
+
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+
+th, td {
+    vertical-align: top;
+}
+
+th {
+    text-align: left;
+}
+
+body { 
+	text-align: center;
+	font-family: 'Open Sans', Arial, Verdana, Tahoma;
+	font-size: 13px;
+	color: #000;
+	margin: 0px;
+	padding: 0px;
+	background: #201b17;
+}
+.clear { clear: Both; }
+.wrapper { width: 990px; margin: auto; text-align: left; position: relative;  }
+.wrapperWhite { background: #fff;
+	box-shadow:  0px 0px 18px #ddd;
+	-ms-box-shadow: 0px 0px 18px #ddd;
+	-o-box-shadow: 0px 0px 18px #ddd;
+	-moz-box-shadow: 0px 0px 18px #ddd;
+}
+
+a {color: inherit; }
+
+
+.footer { color: #fff; padding: 20px;}
+.footer span { margin-left: 40px; }
+.footer span:first-child { margin-left: 0px; }
+.header { background: #fff; padding-top: 50px; border-bottom: 1px solid #fff;}
+
+.header .panL { float: left; width: 29%; padding-right: 1%; }
+.header .logo { margin: 0px 0px 20px 0px; }
+.header .logo img { width: 100%; }
+.header .panR { float: right; width: 70%; }
+.header .panR img { width: 100%; }
+
+.header .menu ul {
+	list-style-type: none;
+	margin-left: 50px;
+	}
+.header .menu ul li { display: block; margin-bottom: 10px;}
+.header .menu ul li a { 
+	display: block;
+	font-size: 20px;
+	font-weight: 600;
+	text-transform: uppercase;
+	width: 160px; 
+	padding-right: 50px;
+	line-height: 20px;
+	padding-left: 10px;
+	border-left: 5px solid #02a0e1;
+	height: 38px;
+}
+.header .menu ul li a:hover {
+	border-color: #dc137b;
+	}
+
+
+
+.mainMenu {
+	background: #fff;
+	height: 50px;
+}
+.mainMenu .panL { width: 30%; float: left; }
+.mainMenu .panR { width: 70%; float: right; background: #000;}
+.mainMenu ul { list-style-type:none;  }
+.mainMenu ul li { 
+	float: left;
+	color: #fff;
+	height: 50px;
+	border-left: 1px solid #666; 
+}
+.mainMenu ul li a {
+	display: block;
+	line-height: 50px;
+	text-transform: uppercase;
+	font-size: 20px;
+	font-weight: 300;
+	padding: 0 18.8px;
+	} 
+.mainMenu ul li a:hover, .mainMenu ul li.active a {
+	background: #dc137b;
+	}	
+	
+	
+	
+.main { background: url(../image/bgMain.png) repeat-x top left #c5c5c5; }
+.mainContent { background: url(../image/bgMainW.png) repeat-x top left #e6e6e6; padding: 40px;}
+
+
+
+.banners { float: right; margin: 0 -40px 20px 20px; }
+.banners .item { 
+	background: #fff;
+	width: 300px;
+	/*height: 100px;*/
+	margin-top: 10px;
+}
+.banners .item:first-child { margin-top: 0; }
+
+
+
+
+.customContent { margin-bottom: 0px; }
+body.customContent {
+	padding: 20px;
+	}
+.customContent h1 {
+	font-size: 34px;
+	font-weight: 400;
+	color: #0294e1;
+	color: #000;
+	padding: 0px 0px 10px 0px;
+	}
+.customContent h2, .customContent h3 {
+	font-size: 24px;
+	font-weight: 400;
+	padding: 0px 0px 10px 0px;
+	color: #666;
+	}
+.customContent h4, .customContent h5 {
+	font-size: 18px;
+	font-weight: 400;
+	padding: 0px 0px 10px 0px;
+	}
+.customContent p { margin-bottom: 10px; line-height: 18px;}
+.customContent p a { text-decoration: underline; color: #0294e1;}
+.customContent p a:hover { text-decoration: underline;}
+
+.customContent ul { list-style-type: square; }
+.customContent ul, .customContent ol {	margin: 0px 0px 10px 0px;	}
+.customContent ul li, .customContent ol li {	padding: 0px 0px 0px 10px;	margin-left: 30px; margin-bottom: 5px;}
+.customContent ul li {  }
+.customContent hr { 
+	color: #ddd;
+	background-color: #ddd;
+	height: 1px;
+	border: 0px;
+	margin: 20px 0px;
+}
+
+.customContent table th {
+	background: #0294e1;
+	padding: 3px 10px;
+	font-size: 11px;
+	font-weight: bold;
+	color: #fff;
+	}
+.customContent table td {
+	padding: 5px 10px;
+	border-bottom: 1px solid #ddd;
+}
+.customContent table {
+	border-spacing: 2px;
+  	border-collapse: separate;
+	}
+	
