@@ -2,6 +2,10 @@
 
 <h1>Przetargi</h1>
 <hr>
+<p><b>Zakup licencji oprogramowania w ramach Zadania 6
+na potrzeby realizacji projektu pn. „Budowa nowego zakładu do produkcji
+etykiet wielowarstwowych” - 24.10.2017</b></p>
+<br>
 <p><a href='files/rozeznanie/1.doc'>Rozeznanie rynku</a></p>
 <p><a href='files/rozeznanie/2.doc'>Opis przedmiotu</a></p>
 <p><a href='files/rozeznanie/3.doc'>Umowa</a></p>
