@@ -11,11 +11,11 @@ Do pobrania- <p><a href='files/PARP/1.pdf' target="_blank">zapytanie ofertowe wr
 na potrzeby realizacji projektu pn. „Budowa nowego zakładu do produkcji
 etykiet wielowarstwowych” - 24.10.2017</b></p>
 <br>
-<p><a href='files/20.pdf'>Informacja o wyborze najkorzystniejszej oferty</a></p>
 <p><a href='files/rozeznanie/1.doc'>Rozeznanie rynku</a></p>
 <p><a href='files/rozeznanie/2.doc'>Opis przedmiotu</a></p>
 <p><a href='files/rozeznanie/3.doc'>Umowa</a></p>
 <p><a href='files/rozeznanie/4.doc'>Formularz oferty</a></p>
+<p><a href='files/20.pdf'>Informacja o wyborze najkorzystniejszej oferty</a></p>
 <hr>
 <p><b>Zapytanie ofertowe dotyczące robót budowlanych w postaci „Budowy hali produkcyjnej dla nowego zakładu” w ramach projektu pt: „Budowa nowego zakładu do produkcji etykiet wielowarstwowych”, 
 Projekt realizowany w ramach Regionalnego Programu Operacyjnego Województwa Podkarpackiego na lata 2014-2020, Oś priorytetowa I Konkurencyjna i innowacyjna gospodarka, Działanie: 1.4 Wsparcie MŚP, Poddziałanie: 1.4.1 Dotacje bezpośrednie, Wniosek o dofinansowanie Projektu nr: RPPK.01.04.01-18-0397/16 z dnia 29 kwietnia 2016 r.</b></p> 
