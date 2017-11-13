@@ -5,11 +5,13 @@
 <p><b>Firma Zakład Wielobranżowy Drukarnia „Mulicolor” Bujak Krzysztof z siedzibą w Jarosławiu w związku z ubieganiem się o dofinansowanie projektu w Polskiej Agencji Rozwoju Przedsiębiorczości, zaprasza niniejszym do złożenia oferty dotyczącej realizacji zamówienia w postaci przeprowadzenia audytu wzorniczego dla firmy Zakład Wielobranżowy Drukarnia „Mulicolor” Bujak Krzysztof wraz z opracowaniem strategii wzorniczej, na potrzeby projektu pn. „Audyt wzorniczy i strategia wzornicza w firmie „Multicolor” Krzysztof Bujak czynnikiem rozwoju i wzrostu konkurencyjności.”, w ramach Programu Operacyjnego Polska Wschodnia 2014-2020, Oś Priorytetowa I: Przedsiębiorcza Polska Wschodnia, Działanie 1.4 Wzór na konkurencję I Etap, Numer konkurs: 1, Rok: 2017.
 </b></p>
 Do pobrania- <p><a href='files/PARP/1.pdf' target="_blank">zapytanie ofertowe wraz z formularzem oferty i załącznikami</a></p>
+<p><a href='files/21.pdf'>Informacja o wyborze wykonawcy</a></p>
 <hr>
 <p><b>Zakup licencji oprogramowania w ramach Zadania 6
 na potrzeby realizacji projektu pn. „Budowa nowego zakładu do produkcji
 etykiet wielowarstwowych” - 24.10.2017</b></p>
 <br>
+<p><a href='files/20.pdf'>Informacja o wyborze najkorzystniejszej oferty</a></p>
 <p><a href='files/rozeznanie/1.doc'>Rozeznanie rynku</a></p>
 <p><a href='files/rozeznanie/2.doc'>Opis przedmiotu</a></p>
 <p><a href='files/rozeznanie/3.doc'>Umowa</a></p>
