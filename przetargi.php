@@ -2,6 +2,8 @@
 
 <h1>Przetargi</h1>
 <hr>
+<p><b>„Budowa nowego zakładu do produkcji etykiet wielowarstwowych”, Projekt realizowany w ramach Regionalnego Programu Operacyjnego Województwa Podkarpackiego na lata 2014-2020, Oś priorytetowa I Konkurencyjna i innowacyjna gospodarka, Działanie: 1.4 Wsparcie MŚP, Poddziałanie: 1.4.1 Dotacje bezpośrednie, Wniosek o dofinansowanie Projektu nr: RPPK.01.04.01-18-0397/16 z dnia 29 kwietnia 2016 r.</b></p>
+<hr>
 <p><b>Firma Zakład Wielobranżowy Drukarnia „Mulicolor” Bujak Krzysztof z siedzibą w Jarosławiu w związku z ubieganiem się o dofinansowanie projektu w Polskiej Agencji Rozwoju Przedsiębiorczości, zaprasza niniejszym do złożenia oferty dotyczącej realizacji zamówienia w postaci przeprowadzenia audytu wzorniczego dla firmy Zakład Wielobranżowy Drukarnia „Mulicolor” Bujak Krzysztof wraz z opracowaniem strategii wzorniczej, na potrzeby projektu pn. „Audyt wzorniczy i strategia wzornicza w firmie „Multicolor” Krzysztof Bujak czynnikiem rozwoju i wzrostu konkurencyjności.”, w ramach Programu Operacyjnego Polska Wschodnia 2014-2020, Oś Priorytetowa I: Przedsiębiorcza Polska Wschodnia, Działanie 1.4 Wzór na konkurencję I Etap, Numer konkurs: 1, Rok: 2017.
 </b></p>
 Do pobrania- <p><a href='files/PARP/1.pdf' target="_blank">zapytanie ofertowe wraz z formularzem oferty i załącznikami</a></p>
