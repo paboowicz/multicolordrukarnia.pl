@@ -3,7 +3,18 @@
 <h1>O NAS</h1>
 <p>Istniejemy na rynku od 2004 roku. Systematycznie podnosimy swoje kwalifikacje i inwestujemy w sprzęt wiodących producentów z branży poligraficznej. Oferujemy usługi w zakresie druku offsetowego, cyfrowego a także przetwarzania druku w pełnym zakresie prac introligatorskich jak i projektowania graficznego. Aby nie zawieść pokładanego w Nas zaufania opracowaliśmy ścisły system kontroli jakości. Dzięki niemu cały proces produkcji jest pod stałą kontrolą.</p> 
 <br/>
-<p>„Budowa nowego zakładu do produkcji etykiet wielowarstwowych”, Projekt realizowany w ramach Regionalnego Programu Operacyjnego Województwa Podkarpackiego na lata 2014-2020, Oś priorytetowa I Konkurencyjna i innowacyjna gospodarka, Działanie: 1.4 Wsparcie MŚP, Poddziałanie: 1.4.1 Dotacje bezpośrednie, Wniosek o dofinansowanie Projektu nr: RPPK.01.04.01-18-0397/16 z dnia 29 kwietnia 2016 r.</p>
+<p>„Budowa nowego zakładu do produkcji etykiet wielowarstwowych”, Projekt realizowany w ramach
+Regionalnego Programu Operacyjnego Województwa Podkarpackiego na lata 2014-2020, Oś
+priorytetowa I Konkurencyjna i innowacyjna gospodarka, Działanie: 1.4 Wsparcie MŚP, Poddziałanie:
+1.4.1 Dotacje bezpośrednie, Umowa o dofinansowanie Projektu nr: RPPK.01.04.01-18-0397/16 z dnia
+29 kwietnia 2016 r.</p>
+<p>Źródło finansowania Europejski Fundusz Rozwoju Regionalnego w ramach Regionalnego Programu
+Operacyjnego Województwa Podkarpackiego na lata 2014-2020, Oś priorytetowa I Konkurencyjna i
+innowacyjna gospodarka, Działanie: 1.4 Wsparcie MŚP, Poddziałanie: 1.4.1 Dotacje bezpośrednie,
+Umowa o dofinansowanie Projektu nr: RPPK.01.04.01-18-0397/16 z dnia 29 kwietnia 2016 r.</p>
+<p>Planowany efekt:w wyniku realizacji projektu firma wdroży nowy produkt w postaci etykiet booklet.</p>
+<p>Wartość projektu:11.647.395,36 zł</p>
+<p>Dofinansowanie z UE:6.490.249,99zł</p>
 <br/>
 <h2>Co nas wyróżnia?</h2>
 <ul>
