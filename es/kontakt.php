@@ -5,7 +5,7 @@
 <p>
 
 <b>ZAKŁAD WIELOBRANŻOWY DRUKARNIA MULTICOLOR</b><br/>
-(oficina) 37-500 Jarosław, ul. Siemieńskiego 18, Polonia<br/>
+(oficina) 37-500 Jarosław, Widna Góra, ul. Roźwienicka 111, Polonia<br/>
 Fax +48 (16) 623 03 97 | Teléfono móvil: +48 733 343 138<br/>
 <br/>
 correo electrónico: <a href="mailto:ventas@multicolordrukarnia.pl">ventas@multicolordrukarnia.pl</a><br/>

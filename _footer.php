@@ -7,7 +7,7 @@
 	<div class="footer">
 			<span>Zakład Wielobranżowy Drukarnia MULTICOLOR</span>
 			
-			<span>Jarosław 37-500, ul. Siemieńskiego 18</span>
+			<span>Jarosław 37-500, Widna Góra,  ul. Roźwienicka 111</span>
 			
 			<span>tel. 16 623-03-97</span>
 	</div>
