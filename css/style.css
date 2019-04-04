@@ -58,7 +58,7 @@ a {color: inherit; }
 .footer { color: #fff; padding: 20px;}
 .footer span { margin-left: 40px; }
 .footer span:first-child { margin-left: 0px; }
-.header { background: #fff; padding-top: 50px; border-bottom: 1px solid #fff;}
+.header { background: #fff; padding-top: 2px; border-bottom: 1px solid #fff;}
 
 .header .panL { float: left; width: 29%; padding-right: 1%; }
 .header .logo { margin: 0px 0px 20px 0px; }
@@ -186,4 +186,15 @@ body.customContent {
 	border-spacing: 2px;
   	border-collapse: separate;
 	}
+
+.lan {
+	background-color: #e6e6e6;
+}
+
+.lan a img {
+	padding-top: 2px;
+    padding-bottom: 2px;
+	margin-left: 50%;
 	
+	
+}
