@@ -42,6 +42,7 @@ body {
 	margin: 0px;
 	padding: 0px;
 	background: #201b17;
+	background-color: #fff; 
 }
 .clear { clear: Both; }
 .wrapper { width: 990px; margin: auto; text-align: left; position: relative;  }
@@ -191,10 +192,11 @@ body.customContent {
 	background-color: #e6e6e6;
 }
 
-.lan a img {
-	padding-top: 2px;
-    padding-bottom: 2px;
-	margin-left: 50%;
+.lan {
+	width: 990px;
+	margin: auto;
+	text-align: right;
+	padding: 2px;
 	
 	
 }

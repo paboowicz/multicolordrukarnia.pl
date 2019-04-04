@@ -12,6 +12,7 @@
 	.header .logo { margin-bottom: 10px; }
 	.header .menu ul li { display: block; margin-bottom: 10px;}
 	.header .menu ul li a { font-size: 16px; width: 100px; line-height: 15px; height: 30px;}	 
+	.lan {	width: 760px;	}
 }
 
 @media only screen and (min-width: 480px) and (max-width: 760px) {
@@ -30,6 +31,7 @@
 	.mainMenu ul li a { text-align: center; }
 	.footer span { display: block; margin: 0; }
 	.mainContent { padding: 20px; }
+	.lan {	width: 480px;	}
 	
 }
 
@@ -49,4 +51,5 @@
 	.mainMenu ul li a { text-align: center; }
 	.footer span { display: block; margin: 0; }
 	.mainContent { padding: 20px; }
+	.lan {	width: 320px;	}
 }
