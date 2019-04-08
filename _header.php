@@ -44,6 +44,9 @@ $description['kontakt.php'] = "ZAKŁAD WIELOBRANŻOWY DRUKARNIA MULTICOLOR, 37-5
 	<link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300,300italic,700&amp;subset=latin,latin-ext' rel='stylesheet' type='text/css'/>
 </head>
 <body>
+	<div class="lan" >
+		<a href="http://www.multicolordrukarnia.pl/es"><img src="../image/es_50.jpg" /></a>
+	</div>
 	<div class="header">
 		<div class="wrapper">
 			<div class="panL">
