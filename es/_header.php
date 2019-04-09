@@ -45,7 +45,7 @@ $description['kontakt.php'] = "ZAKŁAD WIELOBRANŻOWY DRUKARNIA MULTICOLOR, 37-5
 </head>
 <body>
 	<div class="lan" >
-		<a href="http://www.multicolordrukarnia.pl"><img src="../image/pl_50.png" /></a>
+		<a href="http://www.multicolordrukarnia.pl"><b>PL</b> <img src="../image/pl_50.png" /></a>
 	</div>
 	<div class="header">		
 		<div class="wrapper">
