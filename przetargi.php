@@ -1,5 +1,8 @@
 ﻿<? include ("_header.php"); ?>
-
+<h1>Wdrożenie strategii wzorniczej w Drukarni MULTICOLOR</h1>
+<p><a href='files/2019/inf_strona.pdf' target="_blank" >Założenia projektu</a></p>
+<hr>
+<hr>
 <h1>Przetargi</h1>
 <hr>
 <p>„Budowa nowego zakładu do produkcji etykiet wielowarstwowych”, Projekt realizowany w ramach
