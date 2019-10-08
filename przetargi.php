@@ -1,5 +1,48 @@
 ﻿<? include ("_header.php"); ?>
+<a href="http://www.multicolordrukarnia.pl/przetargi.php"><img src="../image/logotypy.jpg" /></a>
+<br/>
+<br/>
 <h1>Wdrożenie strategii wzorniczej w Drukarni MULTICOLOR</h1>
+
+<p>Drukarnia MULTICOLOR realizuje projekt pn. „Wdrożenie strategii wzorniczej w Drukarni
+MULTICOLOR” ze środków Europejskiego Funduszu Rozwoju Regionalnego w ramach
+Programu Operacyjnego Polska Wschodnia 2014-2020, Oś priorytetowa I: Przedsiębiorcza
+Polska Wschodnia, Działanie 1.4 Wzór na konkurencje II etap</p>
+<p>Umowa o dofinansowanie nr POPW.01.04.00-18-0002/19-00 z dnia 17.07.2019.</p>
+<p>Głównym celem projektu jest wzrost konkurencyjności oraz zwiększenie potencjału
+rozwojowego Drukarni MULTICOLOR poprzez umiejętne zarządzanie wzornictwem oraz
+wdrożenie do działalności firmy wzornictwa w postaci wybranych rekomendacji wzorniczych
+opracowanej w I etapie Działania. 1.4. PO PW strategii, których rezultatem będzie
+wprowadzenie na rynek innowacyjnej linii produktów pn. etykiety booklet „48h”, oraz
+wdrożenie w firmie innowacji procesowej, organizacyjnej i marketingowej.
+</p>
+<p>Cel ten zostanie osiągnięty poprzez realizację następujących zadań:</p>
+<ol type="1">
+  <li>Zakup usług doradczych związanych z zaprojektowaniem nowej linii produktów,
+zaprojektowanie spójnej identyfikacji wizualnej firmy i nowych narzędzi komunikacji,
+oraz rebranding,</li>	
+  <li>zakup nowych urządzeń w celu wdrożenia na rynek nowego produktu.</li>	
+</ol>
+
+<p>Oczekiwane efekty projektu to:</p>
+<ol type="1">
+  <li>Rozwój nowoczesnej oferty produktowej dostosowanej do potrzeb rynkowych,
+zwiększenie udziału w rynku Drukarni MULTICOLOR jako producenta i dostawcy
+bookletów, co umocni pozycję firmy na rynku oraz zwiększy potencjał rozwojowy
+firmy,</li>	
+  <li>Uzyskanie rynkowej przewagi konkurencyjnej produktów serii „48h” zaoferowanych
+przez firmę dzięki unikalnemu wzornictwu i innowacyjnym funkcjom użytkowym,</li> 
+  <li>Wzrost konkurencyjności firmy poprzez nabyte technologie i umiejętności
+wykorzystania wzornictwa w celu dalszego rozwoju produktów firmy,</li>
+  <li>Wzmocnienie rozpoznawalności firmy na rynku krajowym i europ. poprzez
+nowoczesną identyfikację wizualną firmy oraz podejmowane działania promocyjnomarketingowe.</li>
+  <li>Uzyskanie dodatkowych zysków z tyt. wypracowanych przychodów z nowych
+produktów</li>
+</ol>
+
+<p>Wartość projektu: 4 397 930,00 zł </p>
+<p>Dofinansowanie z UE: 2 999 600,00 zł</p>
+
 <p><a href='files/2019/inf_strona.pdf' target="_blank" >Założenia projektu</a></p>
 <hr>
 <hr>

@@ -1,5 +1,7 @@
 <? include ("_header.php"); ?>
-
+<a href="http://www.multicolordrukarnia.pl/przetargi.php"><img src="../image/logotypy.jpg" /></a>
+<br/>
+<br/>
 <h1>O NAS</h1>
 <p>Istniejemy na rynku od 2004 roku. Systematycznie podnosimy swoje kwalifikacje i inwestujemy w sprzęt wiodących producentów z branży poligraficznej. Oferujemy usługi w zakresie druku offsetowego, cyfrowego a także przetwarzania druku w pełnym zakresie prac introligatorskich jak i projektowania graficznego. Aby nie zawieść pokładanego w Nas zaufania opracowaliśmy ścisły system kontroli jakości. Dzięki niemu cały proces produkcji jest pod stałą kontrolą.</p> 
 <br/>
